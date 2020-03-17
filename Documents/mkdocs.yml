@@ -1,0 +1,6 @@
+site_name: The Citrix
+nav:
+    - Start: index.md
+    - Översikt: overview.md
+    - Detaljer: details.md
+    - Verkty: tools.md
