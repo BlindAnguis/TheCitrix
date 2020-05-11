@@ -19,7 +19,11 @@ TextureImporter:
     21300028: ExitSignRight1
     21300030: ExitSignLeft1
     21300032: Striplight
+<<<<<<< Updated upstream
     21300034: Office_furniture_set_17
+=======
+    21300034: Striplight2
+>>>>>>> Stashed changes
     21300036: StriplightBig
     21300038: Office_furniture_set_19
     21300040: SeelingCornerLeft
@@ -36,7 +40,11 @@ TextureImporter:
     21300062: FileCabinets3
     21300064: FileCabinets4
     21300066: Books
+<<<<<<< Updated upstream
     21300068: Office_furniture_set_34
+=======
+    21300068: Microwave1
+>>>>>>> Stashed changes
     21300070: MicrowaveOnABench
     21300072: Office_furniture_set_36
     21300074: Office_furniture_set_37
@@ -102,7 +110,11 @@ TextureImporter:
     21300194: Office_furniture_set_97
     21300196: Office_furniture_set_98
     21300198: Office_furniture_set_99
+<<<<<<< Updated upstream
     21300200: Office_furniture_set_100
+=======
+    21300200: Microwave2
+>>>>>>> Stashed changes
     21300202: Office_furniture_set_101
     21300204: Office_furniture_set_102
     21300206: Office_furniture_set_103
@@ -657,7 +669,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_17
+=======
+      name: Striplight2
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 272
@@ -897,6 +913,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_29
       rect:
         serializedVersion: 2
@@ -937,6 +954,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: FileCabinets3
       rect:
         serializedVersion: 2
@@ -997,7 +1016,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_34
+=======
+      name: Microwave1
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 160
@@ -1037,6 +1060,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_36
       rect:
         serializedVersion: 2
@@ -1077,6 +1101,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: ExitSignRight2
       rect:
         serializedVersion: 2
@@ -1197,6 +1223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_44
       rect:
         serializedVersion: 2
@@ -1257,6 +1284,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: Clipboard
       rect:
         serializedVersion: 2
@@ -1277,6 +1306,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_48
       rect:
         serializedVersion: 2
@@ -1337,6 +1367,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: Lamp1
       rect:
         serializedVersion: 2
@@ -1357,6 +1389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_52
       rect:
         serializedVersion: 2
@@ -1377,6 +1410,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: Chair2Left
       rect:
         serializedVersion: 2
@@ -1557,6 +1592,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_62
       rect:
         serializedVersion: 2
@@ -1564,39 +1600,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcfbc413c750c624ea266829f0ace93d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Office_furniture_set_63
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87425204a37c11d4788ce1cdd5f9df36
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
+=======
       name: Cupboard2Right
       rect:
         serializedVersion: 2
@@ -1604,6 +1608,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1611,12 +1616,25 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
+      spriteID: bcfbc413c750c624ea266829f0ace93d
+=======
       spriteID: f954fa4a624c83a4698e42647a725562
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
+      name: Office_furniture_set_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+=======
       name: Cupboard2Left
       rect:
         serializedVersion: 2
@@ -1624,6 +1642,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1631,16 +1650,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
+      spriteID: 87425204a37c11d4788ce1cdd5f9df36
+=======
       spriteID: 5e0d67cfc09b2f14d94b44a7415ff6bf
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
+      name: Cupboard2Right
+      rect:
+        serializedVersion: 2
+        x: 128
+=======
       name: Cupboard1Right
       rect:
         serializedVersion: 2
         x: 160
+>>>>>>> Stashed changes
         y: 48
         width: 16
         height: 32
@@ -1651,16 +1681,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
+      spriteID: f954fa4a624c83a4698e42647a725562
+=======
       spriteID: 66ead87c03bd8ea4e9fa1de253b15a27
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
+      name: Cupboard2Left
+      rect:
+        serializedVersion: 2
+        x: 144
+=======
       name: Cupboard1Left
       rect:
         serializedVersion: 2
         x: 176
+>>>>>>> Stashed changes
         y: 48
         width: 16
         height: 32
@@ -1671,12 +1712,79 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
+      spriteID: 5e0d67cfc09b2f14d94b44a7415ff6bf
+=======
       spriteID: 5275dcde4c914114389b5cf3ab849863
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
+      name: Cupboard1Right
+      rect:
+        serializedVersion: 2
+        x: 160
+=======
+      name: BarChair
+      rect:
+        serializedVersion: 2
+        x: 224
+>>>>>>> Stashed changes
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< Updated upstream
+      spriteID: 66ead87c03bd8ea4e9fa1de253b15a27
+=======
+      spriteID: 708e47c53ae168142a633b3366cb31f6
+>>>>>>> Stashed changes
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<< Updated upstream
+      name: Cupboard1Left
+      rect:
+        serializedVersion: 2
+        x: 176
+=======
+      name: Flower4
+      rect:
+        serializedVersion: 2
+        x: 240
+>>>>>>> Stashed changes
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< Updated upstream
+      spriteID: 5275dcde4c914114389b5cf3ab849863
+=======
+      spriteID: 6f2882d5a9a12214498bcfa0476de94c
+>>>>>>> Stashed changes
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_68
       rect:
         serializedVersion: 2
@@ -1684,6 +1792,15 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
+=======
+      name: Flower3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1691,17 +1808,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: f8310bf0d1f73954f95c7d032391ee60
+=======
+      spriteID: 58249df2ddcc47b4e9aed47ccaa7a589
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_69
       rect:
         serializedVersion: 2
         x: 208
         y: 64
+=======
+      name: Microwave2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+>>>>>>> Stashed changes
         width: 16
         height: 16
       alignment: 0
@@ -1711,12 +1840,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: cc3fa94ad37610d44a732d25d2f835ba
+=======
+      spriteID: 07d83d64a75893e4ea522d8d555b595b
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: BarChair
       rect:
         serializedVersion: 2
@@ -1724,6 +1858,15 @@ TextureImporter:
         y: 48
         width: 16
         height: 32
+=======
+      name: WaterCooler1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1731,12 +1874,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 708e47c53ae168142a633b3366cb31f6
+=======
+      spriteID: a44abd48b16043740a043d184b38c920
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Flower4
       rect:
         serializedVersion: 2
@@ -4264,6 +4412,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: WaterCooler2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4271,12 +4428,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: aefd128684407544ea43603ea21ec63d
+=======
+      spriteID: a44241edce8e0ea44b07d9dab08c0b49
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_198
       rect:
         serializedVersion: 2
@@ -4284,6 +4446,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Desk1Left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4291,12 +4462,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: efaf5b9269ea40a49b04826a939f533f
+=======
+      spriteID: 78c28c0f26b1f9d48b25e79d78e4db63
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_199
       rect:
         serializedVersion: 2
@@ -4304,6 +4480,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Desk2Left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4311,12 +4496,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: c740102b563b0c2489ffde4ecf46e95c
+=======
+      spriteID: 65a56792d53141842be5523441b67625
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_200
       rect:
         serializedVersion: 2
@@ -4324,6 +4514,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Desk2Right
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4331,12 +4530,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 428c237b7e5e0534da56ee3f32c9986c
+=======
+      spriteID: ac91e167f8b06b048b8486da332ddd22
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_201
       rect:
         serializedVersion: 2
@@ -4344,6 +4548,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Desk1Right
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4351,12 +4564,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: a1afe589dc92a6a4d9d6651aa1130c21
+=======
+      spriteID: 48c7de2f27c72d04688b7c08f0204d5f
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_202
       rect:
         serializedVersion: 2
@@ -4364,6 +4582,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Xerox1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4371,12 +4598,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 7b6cfc1587205084b84d04a1a8a366b9
+=======
+      spriteID: fc5e4b2e13e7f3d419f71b99519c64a6
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_203
       rect:
         serializedVersion: 2
@@ -4384,6 +4616,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Xerox2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4391,12 +4632,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 1ef63db30f27d0d4180730e0aa89b82c
+=======
+      spriteID: 8fa19ab21f0d70f4f9824178ebbb124c
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_204
       rect:
         serializedVersion: 2
@@ -4404,6 +4650,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Shelves1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4411,12 +4666,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: f3ae43f098a1f2b498c34235251f2cd6
+=======
+      spriteID: a7be766cb96eddc41b65c46db15230bb
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_205
       rect:
         serializedVersion: 2
@@ -4424,6 +4684,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Shelves2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4431,12 +4700,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 22e15b5f4f7a0114cb24bc1a898ccb4f
+=======
+      spriteID: 811f9fe88a68a5c46b919468a87189c2
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_206
       rect:
         serializedVersion: 2
@@ -4444,6 +4718,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Looker1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4451,12 +4734,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 5ac1a5af1fc63da43bb538b3ec5898a3
+=======
+      spriteID: 5c6df0a9df28f8846bcc4b42d5eadc45
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_207
       rect:
         serializedVersion: 2
@@ -4464,6 +4752,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Looker2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4471,12 +4768,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: d34d3c263c26d8a42abaaa410a16ea1b
+=======
+      spriteID: 495334b5e30d199469ecb92e7234a0ab
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_208
       rect:
         serializedVersion: 2
@@ -4484,6 +4786,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: Window
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 48
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4491,12 +4802,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 135a93e561c0f2546b2e22a3c522c414
+=======
+      spriteID: d62c4b31fa910df4499e08e1569acb42
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_209
       rect:
         serializedVersion: 2
@@ -4504,6 +4820,15 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+      name: ArmchairRed
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 48
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4511,17 +4836,26 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: b9c33c1de91bf3745a27010e2db51952
+=======
+      spriteID: d90578cf6550124408e1caefb56c815d
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_210
+=======
+      name: ArmchairPurple
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 416
         y: 0
+<<<<<<< Updated upstream
         width: 16
         height: 16
       alignment: 0
@@ -4564,6 +4898,10 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
+=======
+        width: 48
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4571,17 +4909,26 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 3dff8dfe9c17ea74b8f1111338515fc0
+=======
+      spriteID: d027f496dddc44f4bad7eab145a85947
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: Office_furniture_set_213
+=======
+      name: ArmchairGreen
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 464
         y: 0
+<<<<<<< Updated upstream
         width: 16
         height: 16
       alignment: 0
@@ -4644,6 +4991,10 @@ TextureImporter:
         y: 55
         width: 8
         height: 46
+=======
+        width: 48
+        height: 48
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4651,7 +5002,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: 29e9d7bc155a1db4c9e6dcfcdbe77359
+=======
+      spriteID: c1840575115d748488e42b770ebf5c88
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -4663,7 +5018,11 @@ TextureImporter:
         x: 448
         y: 48
         width: 16
+<<<<<<< Updated upstream
         height: 48
+=======
+        height: 42
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4676,6 +5035,7 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< Updated upstream
     - serializedVersion: 2
       name: Office_furniture_set_216
       rect:
@@ -4720,6 +5080,8 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+>>>>>>> Stashed changes
     outline:
     - - {x: 254, y: -28}
       - {x: 253, y: -27}
